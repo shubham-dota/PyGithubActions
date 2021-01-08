@@ -1,5 +1,5 @@
 #This program calculates the factorial of a given number
-
+import sys
 def factorial(number):
     '''This function calculates the factorial of a number'''
     if number == 1 or number == 0:
